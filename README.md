@@ -41,7 +41,7 @@ It’s basic, it’s fun, and it’s where I discovered that even toggling a lig
 
 1. Clone this masterpiece:  
    ```bash  
-   git clone https://github.com/prem22k/nerchukundham.git  
+   git clone https://github.com/prem22k/Nerchukundham.git  
    ```  
 
 2. Open `index.html` in your browser and enjoy.  
